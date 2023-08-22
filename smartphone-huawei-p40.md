@@ -1,12 +1,12 @@
-# Smartphone XYZ
+# Smartphone Huawei P40
 
-Description: The Smartphone XYZ is a high-end device with many advanced features.
+Description: The Smartphone Huawei P30 is a high-end device with many advanced features.
 
 Characteristics:
 - 6.5-inch OLED display with 1080p resolution
 - Powerful octa-core processor
 - 48-megapixel main camera with image stabilization
-- Long-lasting 4000mAh battery
+- Long-lasting 5000mAh battery
 - 8GB of RAM and 128GB of internal storage
 - Operating system: Android 12
 - 5G connectivity
