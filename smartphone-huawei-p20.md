@@ -13,3 +13,5 @@ Characteristics:
 - Integrated fingerprint sensor
 - Available colors: Black, White, Blue
 ##written by Dixy Prevner
+
+Price : 100 euros
