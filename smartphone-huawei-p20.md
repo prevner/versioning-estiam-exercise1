@@ -12,5 +12,4 @@ Characteristics:
 - 4G connectivity
 - Integrated fingerprint sensor
 - Available colors: Black, White, Blue
-
-![Image du Smartphone huawei p30 pro]([lien-de-l-image-smartphone.jpg](https://www.1001coques.fr/285170-thickbox_default/coque-personnalisee-huawei-p30-pro.jpg))
+##written by Dixy Prevner
